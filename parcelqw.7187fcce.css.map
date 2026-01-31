@@ -1,0 +1,1 @@
+{"mappings":"ACAA","sources":["parcelqw.7187fcce.css","src/style.css"],"sourcesContent":["p {\n  color: #0ff;\n  font-size: 50px;\n}\n/*# sourceMappingURL=parcelqw.7187fcce.css.map */\n","p{\r\n    color: aqua;\r\n    font-size: 50px;\r\n}"],"names":[],"version":3,"file":"parcelqw.7187fcce.css.map"}
