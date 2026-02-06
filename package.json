@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "npx parcel src/index.html",
     "build": "parcel build src/index.html --public-url /parcelqw/",
-    "predeploy":"npm run build",
-      "deploy": "gh-pages -d dist"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,8 @@
   },
   "homepage": "https://github.com/ostap-sushko/parcelqw#readme",
   "devDependencies": {
+    "@pnotify/core": "^5.2.0",
+    "@pnotify/mobile": "^5.2.0",
     "parcel": "^2.16.3"
   },
   "dependencies": {
